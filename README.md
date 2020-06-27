@@ -1,3 +1,4 @@
 # Carr2020b
 
-MATLAB code for the arXiv preprint: EJ Carr and JJ Klowss, "How long does it take for coupled multi-species reaction-diffusion processes to effectively reach steady state?" https://arxiv.org/abs/2004.03835
+MATLAB code for EJ Carr and JJ Klowss (2020), "Finite transition times for multispecies diffusion in heterogeneous media
+coupled via first-order reaction networks" Physical Review, to appear. https://arxiv.org/abs/2004.03835
